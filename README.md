@@ -1,4 +1,4 @@
-# SciBlock.org
+# SciBlock.org - Launch 20 / Dec / 2023
 # Datasets using in examples directory .AIA
 
 All datasets used in the examples are found in the compressed .ZIP file.
