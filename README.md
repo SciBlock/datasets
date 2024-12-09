@@ -1,4 +1,4 @@
-# SciBlock.org - Launch December 30, 2023
+# SciBlock.org - Launch 2024-25
 # Datasets using in examples directory .AIA
 
 All datasets used in the examples are found in the compressed .ZIP file.
